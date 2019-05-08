@@ -3,17 +3,14 @@ helo this is the sample menu :
 
 This is another word
 
+
 Hello added another file
+1. Added wandie
+2. Added Innocent
+3. Added kavuma
+4. Added pande on project asapo
+5l: it is working man
 
-here is code added
-one here
-
-master added
-
-newbranch added 
-
-1 book
-2 samples
 
 
 
